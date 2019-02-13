@@ -7,7 +7,10 @@ actually there is no problem with the UI design of this website when viewed from
 \
 the main problem is that this website is not responsive or not mobile-friendly if it is opened through a smarthphone. Visitors find it difficult to explore this website.\
 
-Video : [Etalasemuslim](https://youtu.be/NNJ8Ja9m_5U)
+**Suggestion** :
+make the website mobile-friendly
+
+**Video** : [Etalasemuslim](https://youtu.be/NNJ8Ja9m_5U)
 
 ## 2. Rendoru.com
 rendoru.com is a personal website owned by my friend named Firman Maulana. This website contains blog posts and products that he has made. This time, we will review the product page. 
@@ -29,8 +32,6 @@ In my opinion, this page has several problem with the UI design, namely :
 - it's better if the back button is replaced with the next and previous button to immediately see other products\
 ![rendoru-suggest3](img/rendoru_s3.png)
 
-## 3. Sample
-Test
 
 > Irman Kurniawan \
 > 05111640000032 \
