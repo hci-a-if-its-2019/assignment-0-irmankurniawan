@@ -5,7 +5,7 @@ Etalasemuslim is an online shop that sells various herbal medicines.\
 actually there is no problem with the UI design of this website when viewed from a PC, although this website design style looks old-fashioned
 ![etalase](img/etalase1.png)
 \
-the main problem is that this website is not responsive or not mobile-friendly if it is opened through a smarthphone. Visitors find it difficult to explore this website.\
+the main problem is that this website is not responsive or not mobile-friendly if it is opened through a smarthphone. Visitors find it difficult to explore this website.
 
 **Suggestion** :
 make the website mobile-friendly
@@ -32,6 +32,19 @@ In my opinion, this page has several problem with the UI design, namely :
 - it's better if the back button is replaced with the next and previous button to immediately see other products\
 ![rendoru-suggest3](img/rendoru_s3.png)
 
+
+## 3. Schematics 2018
+The Schematics 2018 website is a website of an event called "Schematics 2018" held by the ITS informatics department.
+
+problem : 
+- The problem is in the mobile phone display, navbar blocks the "REEVA" title\
+![sch-problem1](img/sch_p1.png)
+- there is no small arrow in the FAQ section of each question, it seems a little strange to me\
+![sch-problem2](img/sch_p2.png)
+
+suggestion :
+- Maybe by adding some top margin
+- add a small arrow facing down if it is closed, and facing up if it is open
 
 > Irman Kurniawan \
 > 05111640000032 \
