@@ -1,10 +1,16 @@
 # Assignment 0 : Bad UI Design Examples
 
 ## 1. Etalasemuslim.com
+Etalasemuslim is an online shop that sells various herbal medicines.\
+actually there is no problem with the UI design of this website when viewed from a PC, although this website design style looks old-fashioned
 ![etalase](img/etalase1.png)
+\
+the main problem is that this website is not responsive or not mobile-friendly if it is opened through a smarthphone. Visitors find it difficult to explore this website.\
+
+Video : [Etalasemuslim](https://youtu.be/NNJ8Ja9m_5U)
 
 ## 2. Rendoru.com
-rendoru.com is a personal website owned by my friend named Firman Maulana. This website contains blog posts and products that he has made. This time, we will review the product page.
+rendoru.com is a personal website owned by my friend named Firman Maulana. This website contains blog posts and products that he has made. This time, we will review the product page. 
 
 ![rendoru-problem1](img/ren0.gif)
 
